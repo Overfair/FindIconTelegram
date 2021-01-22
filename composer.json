@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kuvardin/telegram-bots-api": " dev-master",
+        "guzzlehttp/guzzle": "^7.0",
+        "orbitale/imagemagick-php": "^3.0",
+        "ext-imagick": "^3.4"
+    }
+}
